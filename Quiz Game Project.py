@@ -178,6 +178,6 @@ if  answer == "yes" :                                  # Always assuming y1 y2 y
 
 print("number of questions is 15")
 print("Your score is ",i)
-print((i/15) * 100,"Questions are right")
+print((i/15) * 100," % Questions are right")
      
    
