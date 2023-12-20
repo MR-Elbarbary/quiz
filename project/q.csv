@@ -1,0 +1,70 @@
+question,choice a,choice b,choice c,choice d,answer
+What does the 'static' keyword mean in Java?, It indicates that the variable or method belongs to the class, It indicates that the variable or method can be accessed by any class in the same package, It indicates that the variable or method cannot be modified, It indicates that the variable or method is dynamic, a
+What is the purpose of the keyword 'final' in Java?, It indicates that a variable cannot be reassigned, It indicates that a method cannot be overridden, It indicates that a class cannot be extended, All of the above, d
+In Python, what is the difference between 'list' and 'tuple'?, Lists are mutable while tuples are immutable, Tuples are mutable while lists are immutable, Both lists and tuples are mutable, a
+What is the purpose of the 'super()' method in Python?, It is used to call the constructor of the superclass, It is used to access the attributes of the superclass, It is used to define a superclass, It is used to override a superclass method, a
+What is the purpose of the 'finally' block in Java's try-catch-finally statement?, It is used to define a block of code to be executed if an exception is thrown, It is used to define a block of code to be executed regardless of whether an exception is thrown or not, It is used to define a block of code to be executed only if no exception is thrown, It is used to define a block of code to be executed only if an exception is caught, b
+What does the 'break' keyword do in a loop in Java?, It terminates the loop and transfers control to the next iteration, It terminates the loop and transfers control to the statement immediately following the loop, It terminates the loop and transfers control to the statement labeled with the loop's label, It has no effect on a loop, a
+What is the purpose of the 'assert' statement in Java?, It is used to test a condition and raise an error if the condition is false, It is used to test a condition and print a message if the condition is false, It is used to test a condition and continue execution if the condition is true, It is used to test a condition and terminate the program if the condition is false, a
+What is the purpose of the 'break' statement in Python's loops?, It terminates the loop and transfers control to the next iteration, It terminates the loop and transfers control to the statement immediately following the loop, It has no effect on a loop, It terminates the loop and transfers control to the statement labeled with the loop's label, b
+What is the purpose of the 'pass' statement in Python?, It is a placeholder indicating where code will eventually go, It is used to terminate a loop or function, It is used to raise an exception, It is used to do nothing, a
+What does the 'len()' function do in Python?, It returns the length of a list, It returns the length of a string, It returns the number of elements in an iterable, All of the above, d
+What is the purpose of the 'continue' statement in a loop in Java?, It skips the rest of the code in the loop and continues with the next iteration, It terminates the loop and transfers control to the next iteration, It has no effect on a loop, It terminates the loop and transfers control to the statement immediately following the loop, a
+What is the purpose of the 'self' parameter in Python class methods?, It refers to the instance of the class, It refers to the class itself, It refers to the superclass of the class, It refers to the subclass of the class, a
+What is the purpose of the 'with' statement in Python?, It is used to open a file and ensure it is closed properly, It is used to define a context in which resources are managed, It is used to create a context manager, All of the above, d
+What does RAM stand for in computing?, Random Access Memory, Readily Accessible Memory, Randomly Accessed Memory, Read-After-Write Memory, a
+What is the function of RAM in a computer?, It temporarily stores data and instructions that are actively being used, It permanently stores all data and instructions, It manages the computer's input and output operations, It controls the computer's memory hierarchy, a
+What is the difference between RAM and ROM?, RAM is volatile and used for temporary storage, while ROM is non-volatile and used for permanent storage, RAM is non-volatile and used for permanent storage, while ROM is volatile and used for temporary storage, a
+What is the purpose of the memory controller in a computer?, It manages the flow of data to and from the RAM, It controls the computer's input and output operations, It manages the computer's memory hierarchy, It permanently stores all data and instructions, a
+What is the difference between DRAM and SRAM?, DRAM is slower and used for main memory, while SRAM is faster and used for cache memory, DRAM is faster and used for cache memory, while SRAM is slower and used for main memory, a
+What is the function of the memory bus in a computer?, It provides a communication path between the CPU, RAM, and other components, It manages the flow of data to and from the RAM, a
+What is the purpose of memory timings in RAM?, They define the latency and speed of accessing data from RAM, They control the computer's memory hierarchy, They manage the flow of data to and from the RAM, They permanently store all data and instructions, a
+What is the difference between single-channel and dual-channel RAM?, Single-channel RAM uses one memory channel, while dual-channel RAM uses two memory channels, Single-channel RAM is slower than dual-channel RAM, Dual-channel RAM is slower than single-channel RAM, a
+What is the purpose of ECC RAM (Error-Correcting Code RAM)?, It detects and corrects errors in data that are stored in RAM, It provides a faster access time to data in RAM, It increases the capacity of RAM, It reduces the power consumption of RAM, a
+What is the role of virtual memory in a computer system?, It extends the computer's RAM by using hard drive space as temporary storage, It provides a backup of the computer's RAM in case of a system failure, It manages the computer's memory hierarchy, It controls the computer's input and output operations, a
+What is the octal equivalent of the binary number 110010111?, 313, 317, 323, 327, c
+What is the decimal equivalent of the octal number 547?, 357, 367, 377, 387, b
+What is the binary equivalent of the octal number 765?, 1111101101, 1111101010, 1111101111, 1111100110, a
+What is the octal equivalent of the decimal number 4095?, 7777, 7776, 7775, 7774, a
+What is the decimal equivalent of the base-5 number 1234?, 194, 199, 204, 209, a
+What is the base-5 equivalent of the decimal number 257?, 2102, 2112, 2122, 2132, a
+What is the hexadecimal equivalent of the base-6 number 345?, 9B, 9C, 9D, 9E, b
+What is the base-6 equivalent of the hexadecimal number AF?, 403, 404, 405, 406, a
+What is the binary equivalent of the base-4 number 2310?, 1001010010, 1001010100, 1001010110, 1001011000, a
+What is the base-4 equivalent of the binary number 10111011?, 3233, 3230, 3223, 3220, a
+What is the octal equivalent of the base-3 number 22212?, 527, 537, 547, 557, a
+What is the base-3 equivalent of the octal number 617?, 122110, 122111, 122112, 122113, a
+What is the hexadecimal equivalent of the base-7 number 456?, 17B, 17C, 17D, 17E, b
+What is the base-7 equivalent of the hexadecimal number D5?, 430, 431, 432, 433, b
+What is the decimal equivalent of the base-8 number 777?, 511, 521, 531, 541, a
+What is the base-8 equivalent of the decimal number 1023?, 1777, 1778, 1779, 2000, a
+What is the binary equivalent of the base-9 number 1234?, 1010111010, 1010111100, 1010111110, 1011000000, b
+What is the base-9 equivalent of the binary number 11011101?, 217, 218, 219, 220, a
+What is the hexadecimal equivalent of the base-5 number 1234?, 67A, 67B, 67C, 67D, b
+What is the base-5 equivalent of the hexadecimal number ABCD?, 12340, 12341, 12342, 12343, a
+What is the purpose of the CPU cache?, It stores frequently accessed data and instructions for faster access, It performs arithmetic and logic operations, It manages the flow of data to and from the CPU, It permanently stores all data and instructions, a
+What is the function of the ALU (Arithmetic Logic Unit) in a CPU?, It performs arithmetic and logic operations, It manages the flow of data to and from the CPU, It stores frequently accessed data and instructions for faster access, It permanently stores all data and instructions, a
+What is the difference between a CPU core and a CPU thread?, A CPU core is a physical processing unit, while a CPU thread is a virtual processing unit, A CPU core is a virtual processing unit, while a CPU thread is a physical processing unit, a
+What is the purpose of the CPU clock speed?, It determines the number of instructions the CPU can execute per second, It determines the size of the CPU cache, It determines the number of CPU cores, It determines the number of CPU threads, a
+What is the role of the control unit in a CPU?, It manages the flow of data and instructions within the CPU, It performs arithmetic and logic operations, It stores frequently accessed data and instructions for faster access, It permanently stores all data and instructions, a
+What is the difference between RISC and CISC architectures?, RISC uses simpler instructions and focuses on executing them quickly, while CISC uses complex instructions, RISC and CISC architectures are the same, RISC and CISC architectures both use complex instructions, a
+What is pipelining in CPU architecture?, It allows multiple instructions to be processed simultaneously by overlapping their execution, It increases the clock speed of the CPU, It reduces the number of CPU cores needed for processing, It reduces the size of the CPU cache, a
+What is the purpose of CPU registers?, They store data that is being processed by the CPU, They manage the flow of data to and from the CPU, They store frequently accessed data and instructions for faster access, They permanently store all data and instructions, a
+What is the difference between a CPU socket and a CPU core?, A CPU socket is a physical slot on the motherboard where the CPU is installed, while a CPU core is a processing unit within the CPU, A CPU socket is a processing unit within the CPU, while a CPU core is a physical slot on the motherboard where the CPU is installed, a
+What is the purpose of the FPU (Floating-Point Unit) in a CPU?, It performs floating-point arithmetic operations, It manages the flow of data to and from the CPU, It stores frequently accessed data and instructions for faster access, It permanently stores all data and instructions, a
+What is the remainder when 2^100 is divided by 101?, 0, 1, 50, 100, c
+What is the value of the Euler's totient function φ(100)?, 40, 48, 60, 80, a
+What is the last digit of 7^2019?, 1, 3, 7, 9, c
+What is the largest prime factor of 600851475143?, 6857, 7919, 104729, 1270319, a
+What is the sum of the first 100 prime numbers?, 104748, 24133, 24141, 24157, c
+What is the 100th digit after the decimal point in the decimal expansion of 1/7?, 1, 2, 4, 5, d
+What is the smallest positive integer that is divisible by each of the numbers 1 to 10 inclusive?, 2520, 5040, 7560, 10080, a
+What is the largest prime number less than 1000?, 997, 1001, 1009, 1013, a
+What is the sum of the digits of the number 2^1000?, 1366, 1456, 1556, 1656, a
+What is the product of the digits of the number 123456789?, 15120, 362880, 362881, 40320, b
+What is the maximum capacity of a single-layer Blu-ray disc?, 25 GB, 50 GB, 100 GB, 128 GB, b
+Which of the following storage devices has the fastest access speed?, Solid State Drive (SSD), Hard Disk Drive (HDD), Magnetic Tape, Optical Disc, a
+What does RAID stand for in the context of data storage?, Redundant Array of Independent Disks, Random Access Integrated Drive, Rapid Access and Integration Device, Remote Array of Internet Devices, a
+What is the purpose of a cache in a computer's storage system?, To temporarily store frequently accessed data for faster access, To permanently store all data and instructions, To manage the flow of data between the CPU and storage, To increase the capacity of the storage device, a
+Which storage technology uses magnetic fields to store data?, Hard Disk Drive (HDD), Solid State Drive (SSD), Optical Disc, USB Flash Drive, a
+What is the typical rotational speed of a modern hard disk drive (HDD) in revolutions per minute (RPM)?, 5400 RPM, 7200 RPM, 10000 RPM, 15000 RPM, b
