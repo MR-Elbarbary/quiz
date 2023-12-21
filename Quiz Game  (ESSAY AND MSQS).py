@@ -294,4 +294,4 @@ if  answer == "yes" :                                  # Always assuming y1 y2 y
  
 print("Number of the questions is 25")
 print("Your score is " , i)     
-print(((i * 25) * 100)," Questions are correct")
+print(((i / 25) * 100),"% Questions are correct")
