@@ -240,4 +240,4 @@ if  answer == "yes" :                                  # Always assuming y1 y2 y
         
     else :
      print("Incorrect")
-     print("The correct choice is 1 => Keyboards\n")
+     print("The correct choice is 2 => Monitors\n")
