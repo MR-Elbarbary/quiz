@@ -11,3 +11,5 @@ CREATE TABLE "quiz"(
 
 INSERT INTO "quiz" ("question", "a", "b", "c", "d", "answer")
 SELECT "question", " choice a", " choice b", " choice c", " choice d", " answer" FROM temp;
+
+UPDATE quiz SET  "answer"= TRIM(answer);
