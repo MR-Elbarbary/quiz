@@ -241,3 +241,5 @@ if ans==ans1:
 else :
     print("False")
 print("your grade is ",m ,"of 4")
+grade = ((m + correct_answers + k + j + i) /20) *100
+print("Now your tottal grade is: " , grade)
