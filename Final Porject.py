@@ -154,11 +154,6 @@ def ask_question(question, choices, correct_answer):
 
 questions = [
     {
-        "question": "What is the most popular programming language in 2023?",
-        "choices": ["Python", "Java", "C++", "JavaScript"],
-        "correct_answer": "A"
-    },
-    {
         "question": "Which data structure uses LIFO (Last In, First Out) order?",
         "choices": ["Queue", "Stack", "Heap", "Tree"],
         "correct_answer": "B"
