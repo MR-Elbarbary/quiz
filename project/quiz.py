@@ -1,21 +1,24 @@
 import sqlite3
 import random
+import os
 
-# Path to the database file
-db_path = 'project/quiz.db'  # Specify the relative path to the database file
+# Get the current working directory
+current_directory = os.getcwd()
+
+# Path to the database file within the current working directory
+db_file_path = os.path.join(current_directory, 'quiz.db')
 
 # Connect to the database
-conn = sqlite3.connect(db_path)
-
+conn = sqlite3.connect(db_file_path)
 # Create a cursor object to interact with the database
 db = conn.cursor()
 
 n = -1
 while n not in range(1,71):
-    n = int(input("Enter how many questions from 1 to 70: "))
+    n = int(input("Enter how many questions from 1 to 69: "))
 array = []
 while len(array) < n:
-    temp = random.randint(1, 70)
+    temp = random.randint(1, 69)
     if temp not in array:
         array.append(temp)
 
